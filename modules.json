@@ -1,0 +1,13 @@
+{
+    "modules": {
+        "medium": {
+            "path": "medium",
+            "data": {
+                "me": "@michaelcolenso"
+            }
+        }
+    },
+    "settings": {
+        "host": "localhost:3001"
+    }
+}
