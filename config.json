@@ -26,6 +26,14 @@
       "data": {
         "me": "michaelcolenso"
       }
+    },
+
+    "pinboard": {
+      "path": "/pinboard",
+      "data": {
+        "me": "michaelcolenso",
+        "auth_token": "michaelcolenso:20FA455242867D3E6E56"
+      }
     }
   }
 }

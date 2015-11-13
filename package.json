@@ -1,7 +1,7 @@
 {
   "name": "mgc-api",
   "version": "0.1.0",
-  "description": "amazing",
+  "description": "a personal api",
   "main": "lib/app.js",
   "bin": {
     "me-api-server": "./bin/www",
@@ -19,24 +19,23 @@
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.6.5",
+    "coinbase": "^1.0.2",
     "compression": "^1.0.11",
     "cors": "^2.4.1",
+    "debug": "~2.2.0",
     "dotenv": "^0.4.0",
     "errorhandler": "^1.1.1",
-    "express": "^4.8.5",
+    "express": "~4.12.4",
     "express-jwt": "^0.3.1",
+    "googleapis": "^2.0.5",
+    "instagram-node": "^0.5.7",
     "jsonwebtoken": "^5.0.1",
     "lodash": "^2.4.1",
-
-    "coinbase": "^1.0.2",
-    "debug": "~2.2.0",
-    "express": "~4.12.4",
-    "instagram-node": "^0.5.7",
     "memory-cache": "^0.1.2",
     "morgan": "~1.5.3",
     "node-foursquare": "^0.3.0",
     "request": "^2.55.0",
     "twit": "^1.1.20",
-    "googleapis": "^2.0.5"
+    "xml2js": "^0.4.15"
   }
 }
